@@ -15,7 +15,7 @@ Vá até a opção Help -> Selecione Eclipse Marketplace -> Digite Window Builde
 
 ### :hammer_and_pick: Funcionalidade do Projeto 
 ---
-- <kbd> A calculadora possui as operações básicas de soma, subtração, multiplicação e divisão. Além disso, calcula o resto da divisão e faz a inversão de sinal.
+A calculadora possui as operações básicas de soma, subtração, multiplicação e divisão. Além disso, calcula o resto da divisão e faz a inversão de sinal.
 
 ###  :octocat: Técnicas e Tecnologias Utilizadas
 ---
